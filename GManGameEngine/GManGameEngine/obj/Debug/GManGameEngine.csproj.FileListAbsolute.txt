@@ -1,0 +1,11 @@
+D:\more repos\GManGameEngine\GManGameEngine\bin\Debug\GManGameEngine.exe.config
+D:\more repos\GManGameEngine\GManGameEngine\bin\Debug\GManGameEngine.exe
+D:\more repos\GManGameEngine\GManGameEngine\bin\Debug\GManGameEngine.pdb
+D:\more repos\GManGameEngine\GManGameEngine\obj\Debug\GManGameEngine.csproj.AssemblyReference.cache
+D:\more repos\GManGameEngine\GManGameEngine\obj\Debug\GManGameEngine.csproj.SuggestedBindingRedirects.cache
+D:\more repos\GManGameEngine\GManGameEngine\obj\Debug\GManGameEngine.Form1.resources
+D:\more repos\GManGameEngine\GManGameEngine\obj\Debug\GManGameEngine.Properties.Resources.resources
+D:\more repos\GManGameEngine\GManGameEngine\obj\Debug\GManGameEngine.csproj.GenerateResource.cache
+D:\more repos\GManGameEngine\GManGameEngine\obj\Debug\GManGameEngine.csproj.CoreCompileInputs.cache
+D:\more repos\GManGameEngine\GManGameEngine\obj\Debug\GManGameEngine.exe
+D:\more repos\GManGameEngine\GManGameEngine\obj\Debug\GManGameEngine.pdb
